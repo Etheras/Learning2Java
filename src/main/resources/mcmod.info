@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Learning2Java",
+  "name": "Learning2Java",
+  "description": "A mod for the modpack Learning2Java, whose objective is to teach the basics to java to whomever is willing.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Etheras/Learning2Java",
+  "updateUrl": "",
+  "authorList": ["Etheras"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
